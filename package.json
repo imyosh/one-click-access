@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "robotjs": "^0.6.0"
+  }
+}
